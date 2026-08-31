@@ -1,5 +1,0 @@
-interface:
-  display_name: "Cobalt Travel Tile"
-  short_description: "Original 4:5 upper-photo, lower-panel keepsake"
-  brand_color: "#2452A5"
-  default_prompt: "Use $photo-to-cobalt-travel-tile to turn this photo into an original 4:5 keepsake."
