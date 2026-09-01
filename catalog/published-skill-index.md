@@ -58,6 +58,19 @@ Each Skill is a complete photo-reinterpretation method. Open a title or image fo
 
 ---
 
+## 05 — Bridesmaid Bloom Page / 伴娘花束页
+
+[![Bridesmaid Bloom Page](../skills/photo-to-bridesmaid-bloom-page/examples/sample-03-bouquet-ribbons.png)](../skills/photo-to-bridesmaid-bloom-page/README.md)
+
+**适合 / Best for：** 伴娘花束、婚礼晨间、姐妹合照、庆祝花材与丝带细节。  
+**视觉语言 / Visual language：** 香槟色丝带、花瓣水彩、鼠尾草织物、棉纸和细小纪念挂坠。  
+**输出感受 / Result：** 快乐、精致而不落入制式婚礼模板。
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-bridesmaid-bloom-page/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github14)**
+
+---
+
 ## 安装与使用 / Install and use
 
 ```text

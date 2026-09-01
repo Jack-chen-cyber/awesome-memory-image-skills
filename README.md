@@ -3,7 +3,7 @@
 > 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
 > Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-**已发布 4 个原创 Skill / 4 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
+**已发布 5 个原创 Skill / 5 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
 > **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
 
@@ -54,6 +54,16 @@ Keep the bookstore moment above; the lower panel becomes a rights-aware, text-fr
 ![Bookstore Marginalia example](skills/photo-to-bookstore-marginalia/examples/sample-02-window-stack.png)
 
 **[查看完整介绍与安装 →](skills/photo-to-bookstore-marginalia/README.md)** · **[在 PixPix 生成书店页边笔记 →](https://www.pixpix.com/?source=github13)**
+
+### [Bridesmaid Bloom Page / 伴娘花束页](skills/photo-to-bridesmaid-bloom-page/README.md)
+
+把伴娘花束、丝带和明亮房间里的相处瞬间留成一页轻盈而不模板化的庆祝记忆：上半真实，下半以水彩花材、棉纸、织物和小挂坠重组。
+
+Turn flowers, fabric, and shared celebration into an original botanical keepsake: real moment above, watercolor blooms, ribbon, paper, and a tiny charm below.
+
+![Bridesmaid Bloom Page example](skills/photo-to-bridesmaid-bloom-page/examples/sample-03-bouquet-ribbons.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-bridesmaid-bloom-page/README.md)** · **[在 PixPix 生成伴娘花束页 →](https://www.pixpix.com/?source=github14)**
 
 ## 安装到 Codex / Install in Codex
 
