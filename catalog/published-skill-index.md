@@ -32,6 +32,19 @@ Each Skill is a complete photo-reinterpretation method. Open a title or image fo
 
 ---
 
+## 03 — Birthday Cake Diary / 生日蛋糕日记
+
+[![Birthday Cake Diary](../skills/photo-to-birthday-cake-diary/examples/sample-02-heart-candle.png)](../skills/photo-to-birthday-cake-diary/README.md)
+
+**适合 / Best for：** 生日蛋糕、烛光晚餐、花束、小型庆祝和有仪式感的日常。  
+**视觉语言 / Visual language：** 水粉奶油、丝带、皱纹纸、蜡感、浆果与低调金色闪光。  
+**输出感受 / Result：** 甜但不幼态，像一次被认真留下来的庆祝，而不是制式生日贺卡。
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-birthday-cake-diary/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github12)**
+
+---
+
 ## 安装与使用 / Install and use
 
 ```text

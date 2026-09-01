@@ -3,7 +3,7 @@
 > 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
 > Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-**已发布 2 个原创 Skill / 2 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
+**已发布 3 个原创 Skill / 3 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
 > **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
 
@@ -34,6 +34,16 @@ Transform food photos into a warm design keepsake: real fruit and light above, o
 ![Fruit Still Life Note example](skills/photo-to-fruit-still-life-note/examples/sample-03-citrus-window.png)
 
 **[查看完整介绍与安装 →](skills/photo-to-fruit-still-life-note/README.md)** · **[在 PixPix 生成果物静物便签 →](https://www.pixpix.com/?source=github11)**
+
+### [Birthday Cake Diary / 生日蛋糕日记](skills/photo-to-birthday-cake-diary/README.md)
+
+把生日蛋糕、烛光、花束或一次小型庆祝做成不过分甜腻的纪念页：上半保留真实的灯光与餐桌，下半重绘为水粉蛋糕、丝带、蜡感和克制的闪光纸片。
+
+Keep the real cake and candlelit celebration above; turn the lower panel into an original grown-up paper diary of frosting, ribbon, wax, and quiet sparkle.
+
+![Birthday Cake Diary example](skills/photo-to-birthday-cake-diary/examples/sample-02-heart-candle.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-birthday-cake-diary/README.md)** · **[在 PixPix 生成生日蛋糕日记 →](https://www.pixpix.com/?source=github12)**
 
 ## 安装到 Codex / Install in Codex
 

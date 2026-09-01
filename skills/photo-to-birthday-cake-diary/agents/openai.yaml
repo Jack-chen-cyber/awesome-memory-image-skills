@@ -1,0 +1,5 @@
+interface:
+  display_name: "Birthday Cake Diary"
+  short_description: "Original 4:5 upper-photo, lower-panel keepsake"
+  brand_color: "#8A6D77"
+  default_prompt: "Use $photo-to-birthday-cake-diary to turn this photo into an original 4:5 keepsake."
