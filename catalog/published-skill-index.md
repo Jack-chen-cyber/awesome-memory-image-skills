@@ -1,18 +1,43 @@
-# 原创 Skill 总览 / Original Skill Index
+# Published Skill Gallery / 已发布 Skill 图文集
 
-本页汇总已发布的原创图片创作 Skill。每项均含中英文介绍、Codex 安装方式、PixPix 工作流链接与至少三张无文字示例图。
+每个 Skill 都是一个完整的照片再创作方法：上半保留真实瞬间，下半变成不同媒介的原创视觉日记。点击样图或标题可进入详情页，查看三张案例、安装步骤和权利边界。
 
-This page lists published original image-making Skills. Each entry includes bilingual documentation, Codex installation, a PixPix workflow link, and at least three text-free examples.
+Each Skill is a complete photo-reinterpretation method. Open a title or image for all three examples, installation instructions, and rights boundaries.
 
-## 已发布 / Published
+> **[在 PixPix 以照片开始创作 →](https://www.pixpix.com/?source=github1)**
 
-| Skill | 中文方向 | English direction | PixPix |
-| --- | --- | --- | --- |
-| [Cobalt Travel Tile](../skills/photo-to-cobalt-travel-tile/README.md) | 钴蓝旅行拼贴 | Cobalt travel tile | [生成](https://www.pixpix.com/?source=github10) |
-| [Fruit Still Life Note](../skills/photo-to-fruit-still-life-note/README.md) | 果物静物便签 | Fruit still-life studies | [生成](https://www.pixpix.com/?source=github11) |
+## 01 — Cobalt Travel Tile / 钴蓝旅行瓷片
 
-## 使用与许可 / Use and license
+[![Cobalt Travel Tile](../skills/photo-to-cobalt-travel-tile/examples/sample-02-blue-hour.png)](../skills/photo-to-cobalt-travel-tile/README.md)
 
-请仅上传拥有使用权的图片。每个 Skill 的许可、边界与作者信息以其目录内的 `README.md`、`README_EN.md` 和 `LICENSE.md` 为准。
+**适合 / Best for：** 海岸、老城、旅店、蓝色建筑与旅行散步。  
+**视觉语言 / Visual language：** 钴蓝瓷片、暖白棉纸、浅色地图线、收集感纪念品。  
+**输出感受 / Result：** 有地点感，但不旅游纪念品化；像从旅途中带回的一页纸上收藏。
 
-Upload only images you have the right to use. Refer to each Skill's `README.md`, `README_EN.md`, and `LICENSE.md` for authorship, rights boundaries, and licensing.
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-cobalt-travel-tile/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github10)**
+
+---
+
+## 02 — Fruit Still Life Note / 果物静物便签
+
+[![Fruit Still Life Note](../skills/photo-to-fruit-still-life-note/examples/sample-03-citrus-window.png)](../skills/photo-to-fruit-still-life-note/README.md)
+
+**适合 / Best for：** 早餐、下午茶、市集水果、厨房窗边与季节食物。  
+**视觉语言 / Visual language：** 水粉果物习作、亚麻布色样、手工纸、杏子与叶绿配色。  
+**输出感受 / Result：** 将普通食物照片变成温柔、饱满而可收藏的日常设计页。
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-fruit-still-life-note/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github11)**
+
+---
+
+## 安装与使用 / Install and use
+
+```text
+git clone https://github.com/Jack-chen-cyber/awesome-memory-image-skills.git
+复制一个完整的 skills/<skill-name> 目录到 %USERPROFILE%\.codex\skills\
+重新加载 Codex 后，在对话中调用 $<skill-name>
+```
+
+请只上传拥有使用权的照片。每个目录内的 `README.md`、`README_EN.md` 和 `LICENSE.md` 说明了其原创状态、许可与使用边界。

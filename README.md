@@ -1,8 +1,56 @@
-# awesome-memory-image-skills
-中英双语图片创作 Skill 目录：保留作者、来源与许可信息，并提供可追踪的 PixPix 工作流链接。 / A bilingual directory of image-making Skills with attribution, source, license, and trackable PixPix workflows.
+# Awesome Memory Image Skills
 
-## 原创 Skill 总览 / Original Skill Index
+> 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
+> Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-已发布的原创 Skill 与中英文说明、安装方式、PixPix 工作流及样图均收录在：[原创 Skill 总览](catalog/published-skill-index.md)。
+**已发布 2 个原创 Skill / 2 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
-Published original Skills, bilingual documentation, installation instructions, PixPix workflows, and examples are collected in the [Original Skill Index](catalog/published-skill-index.md).
+> **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
+
+## 为什么是上下拼接？ / Why upper + lower?
+
+不是把照片套进同一张模板。每个 Skill 都保留照片上半部分的地点、光线和最重要的细节；下半部分从画面里提取颜色、物件和情绪，生成一页独立的纸上创作。适合旅行、日常、食物、穿搭和想留下来的微小瞬间。
+
+This is not a one-template filter. The upper panel keeps the place, light, and meaningful detail; the lower panel turns its colors, objects, and mood into a self-contained paper artwork.
+
+## 已发布精选 / Published highlights
+
+### [Cobalt Travel Tile / 钴蓝旅行瓷片](skills/photo-to-cobalt-travel-tile/README.md)
+
+旅行照片上半保留海岸、街道或建筑的真实呼吸；下半将画面重组为手绘钴蓝瓷片、浅色地图轮廓与暖白纸感。适合海边、老城、市场和带有蓝色细节的旅途。
+
+The real travel moment stays above; the lower panel becomes hand-painted cobalt fragments, a soft map contour, and warm paper texture.
+
+![Cobalt Travel Tile example](skills/photo-to-cobalt-travel-tile/examples/sample-02-blue-hour.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-cobalt-travel-tile/README.md)** · **[在 PixPix 生成钴蓝旅行瓷片 →](https://www.pixpix.com/?source=github10)**
+
+### [Fruit Still Life Note / 果物静物便签](skills/photo-to-fruit-still-life-note/README.md)
+
+将一顿早餐、窗边水果或市集小景做成安静而饱满的果物便签：上半是自然光下的真实食物照片，下半是水粉果物习作、布料色样与手工纸拼贴。适合早餐、下午茶、厨房与季节性食物记录。
+
+Transform food photos into a warm design keepsake: real fruit and light above, original gouache studies, linen swatches, and handmade-paper forms below.
+
+![Fruit Still Life Note example](skills/photo-to-fruit-still-life-note/examples/sample-03-citrus-window.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-fruit-still-life-note/README.md)** · **[在 PixPix 生成果物静物便签 →](https://www.pixpix.com/?source=github11)**
+
+## 安装到 Codex / Install in Codex
+
+1. 克隆或下载本仓库：`git clone https://github.com/Jack-chen-cyber/awesome-memory-image-skills.git`。
+2. 选择一个完整目录，例如 `skills/photo-to-fruit-still-life-note`，复制到 `%USERPROFILE%\.codex\skills\`。
+3. 重启或重新加载 Codex，并在对话中调用对应的 `$skill-name`。
+
+每个 Skill 的 `README.md` 有更具体的使用方式、三张示例和权利边界；请保留 `agents/`、`examples/`、`LICENSE.md` 与 `SKILL.md`，不要只复制一个提示词文件。
+
+For full guidance, keep the entire Skill directory—not only `SKILL.md`.
+
+## 全部已发布 Skill / Browse the complete collection
+
+**[打开图文聚合页 →](catalog/published-skill-index.md)**
+
+## 权利与边界 / Rights and boundaries
+
+本仓库仅发布原创指令。请仅上传拥有使用权的照片；不要用这些 Skill 复刻品牌、艺术家或受版权保护的图像。下半部分是原创视觉解释，不是对原作的临摹或事实档案。PixPix 链接是独立工作流入口，不代表 PixPix 托管本仓库内容。
+
+Only upload images you are entitled to use. Do not use these Skills to reproduce brands, artists, or copyrighted images. PixPix is an independent workflow and does not host these Skills.
