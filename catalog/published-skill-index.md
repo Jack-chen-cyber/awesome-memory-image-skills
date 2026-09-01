@@ -45,6 +45,19 @@ Each Skill is a complete photo-reinterpretation method. Open a title or image fo
 
 ---
 
+## 04 — Bookstore Marginalia / 书店页边笔记
+
+[![Bookstore Marginalia](../skills/photo-to-bookstore-marginalia/examples/sample-02-window-stack.png)](../skills/photo-to-bookstore-marginalia/README.md)
+
+**适合 / Best for：** 书店、咖啡、阅读、手提袋与雨天城市散步。  
+**视觉语言 / Visual language：** 留白纸边、铅笔小物、新闻纸肌理、深酒红与褪蓝墨色。  
+**输出感受 / Result：** 有书店的安静与思考感，但不复制书封、内页或任何可识别文字。
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-bookstore-marginalia/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github13)**
+
+---
+
 ## 安装与使用 / Install and use
 
 ```text

@@ -3,7 +3,7 @@
 > 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
 > Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-**已发布 3 个原创 Skill / 3 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
+**已发布 4 个原创 Skill / 4 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
 > **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
 
@@ -44,6 +44,16 @@ Keep the real cake and candlelit celebration above; turn the lower panel into an
 ![Birthday Cake Diary example](skills/photo-to-birthday-cake-diary/examples/sample-02-heart-candle.png)
 
 **[查看完整介绍与安装 →](skills/photo-to-birthday-cake-diary/README.md)** · **[在 PixPix 生成生日蛋糕日记 →](https://www.pixpix.com/?source=github12)**
+
+### [Bookstore Marginalia / 书店页边笔记](skills/photo-to-bookstore-marginalia/README.md)
+
+把书店、咖啡、手提袋和安静的城市片刻转成没有书名与正文的纸上页边笔记：上半保留书架光影，下半用留白、铅笔线、纸边和深酒红墨痕写下情绪。
+
+Keep the bookstore moment above; the lower panel becomes a rights-aware, text-free composition of blank margins, pencil shelf objects, paper edges, and oxblood ink.
+
+![Bookstore Marginalia example](skills/photo-to-bookstore-marginalia/examples/sample-02-window-stack.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-bookstore-marginalia/README.md)** · **[在 PixPix 生成书店页边笔记 →](https://www.pixpix.com/?source=github13)**
 
 ## 安装到 Codex / Install in Codex
 
