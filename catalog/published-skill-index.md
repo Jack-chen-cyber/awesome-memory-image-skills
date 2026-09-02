@@ -136,6 +136,19 @@ Each Skill is a complete photo-reinterpretation method. Open a title or image fo
 
 ---
 
+## 11 — Fashion Doodle Diary / 时尚涂鸦日记
+
+[![Fashion Doodle Diary](../skills/photo-to-fashion-doodle-diary/examples/sample-02-pink-pleats.png)](../skills/photo-to-fashion-doodle-diary/README.md)
+
+**适合 / Best for：** 穿搭、配饰、色彩、姿势与日常造型。  
+**视觉语言 / Visual language：** 马克笔、铅笔、纹理笔记本和衣橱取色。  
+**输出感受 / Result：** 像一页随手时尚速写，而非模板化穿搭卡。 
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-fashion-doodle-diary/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github64)**
+
+---
+
 ## 安装与使用 / Install and use
 
 ```text

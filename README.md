@@ -3,7 +3,7 @@
 > 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
 > Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-**已发布 10 个原创 Skill / 10 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
+**已发布 11 个原创 Skill / 11 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
 > **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
 
@@ -114,6 +114,16 @@ Turn night color and reflective movement into a non-astrological cosmic diary: r
 ![Cosmic Diary Collage example](skills/photo-to-cosmic-diary-collage/examples/sample-02-disco-window.png)
 
 **[查看完整介绍与安装 →](skills/photo-to-cosmic-diary-collage/README.md)** · **[在 PixPix 生成宇宙日记拼贴 →](https://www.pixpix.com/?source=github63)**
+
+### [Fashion Doodle Diary / 时尚涂鸦日记](skills/photo-to-fashion-doodle-diary/README.md)
+
+将穿搭瞬间转成无文字的随手时尚笔记：上半真实穿搭，下半为原创服装线稿、配饰速写与取色纸片。
+
+Turn an outfit moment into a text-free fashion notebook: real look above, original outfit sketch, accessories, and color chips below.
+
+![Fashion Doodle Diary example](skills/photo-to-fashion-doodle-diary/examples/sample-02-pink-pleats.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-fashion-doodle-diary/README.md)** · **[在 PixPix 生成时尚涂鸦日记 →](https://www.pixpix.com/?source=github64)**
 
 ## 安装到 Codex / Install in Codex
 
