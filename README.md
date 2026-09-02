@@ -3,7 +3,7 @@
 > 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
 > Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-**已发布 6 个原创 Skill / 6 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
+**已发布 7 个原创 Skill / 7 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
 > **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
 
@@ -74,6 +74,16 @@ Turn a dinner photo into a minimal intimate art card: real candlelight and table
 ![Candlelight Dinner Card example](skills/photo-to-candlelight-dinner-card/examples/sample-02-cherry-card.png)
 
 **[查看完整介绍与安装 →](skills/photo-to-candlelight-dinner-card/README.md)** · **[在 PixPix 生成烛光晚餐卡 →](https://www.pixpix.com/?source=github15)**
+
+### [Ceramic Breakfast Page / 陶瓷早餐页](skills/photo-to-ceramic-breakfast-page/README.md)
+
+把一顿早餐、窗边水果或厨房光线变成克制丰盈的陶瓷早餐页：上半留下真实食物，下半以釉面器皿、亚麻与水果小习作重新编排。
+
+Turn a breakfast photo into an editorial keepsake: real morning food above, individual glazed ceramics, linen, and fruit studies below.
+
+![Ceramic Breakfast Page example](skills/photo-to-ceramic-breakfast-page/examples/sample-03-strawberry-tart.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-ceramic-breakfast-page/README.md)** · **[在 PixPix 生成陶瓷早餐页 →](https://www.pixpix.com/?source=github60)**
 
 ## 安装到 Codex / Install in Codex
 

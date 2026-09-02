@@ -84,6 +84,19 @@ Each Skill is a complete photo-reinterpretation method. Open a title or image fo
 
 ---
 
+## 07 — Ceramic Breakfast Page / 陶瓷早餐页
+
+[![Ceramic Breakfast Page](../skills/photo-to-ceramic-breakfast-page/examples/sample-03-strawberry-tart.png)](../skills/photo-to-ceramic-breakfast-page/README.md)
+
+**适合 / Best for：** 早餐、午后点心、厨房窗边、陶瓷器皿、水果与晨光。  
+**视觉语言 / Visual language：** 哑光釉面、奶油纸张、钴蓝亚麻、番茄与杏子色彩。  
+**输出感受 / Result：** 不只是食物照，而是一页有呼吸感、可收藏的早餐静物。 
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-ceramic-breakfast-page/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github60)**
+
+---
+
 ## 安装与使用 / Install and use
 
 ```text
