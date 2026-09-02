@@ -110,6 +110,19 @@ Each Skill is a complete photo-reinterpretation method. Open a title or image fo
 
 ---
 
+## 09 — Citywalk Map Poem / 城市漫游地图诗
+
+[![Citywalk Map Poem](../skills/photo-to-citywalk-map-poem/examples/sample-03-rain-umbrella.png)](../skills/photo-to-citywalk-map-poem/README.md)
+
+**适合 / Best for：** 街角、石板路、建筑、雨天、城市散步与微小停留。  
+**视觉语言 / Visual language：** 描图纸、石材与砖色、褪蓝铅笔线、抽象漫游轨迹。  
+**输出感受 / Result：** 保留城市的触感与心情，而不泄露真实路线、地址或导航信息。 
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-citywalk-map-poem/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github62)**
+
+---
+
 ## 安装与使用 / Install and use
 
 ```text

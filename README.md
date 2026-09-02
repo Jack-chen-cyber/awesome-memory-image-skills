@@ -3,7 +3,7 @@
 > 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
 > Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-**已发布 8 个原创 Skill / 8 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
+**已发布 9 个原创 Skill / 9 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
 > **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
 
@@ -94,6 +94,16 @@ Turn a small accessory moment into a collectible charm board: a real outfit deta
 ![Charm Bracelet Board example](skills/photo-to-charm-bracelet-board/examples/sample-02-pink-clip.png)
 
 **[查看完整介绍与安装 →](skills/photo-to-charm-bracelet-board/README.md)** · **[在 PixPix 生成串珠挂件板 →](https://www.pixpix.com/?source=github61)**
+
+### [Citywalk Map Poem / 城市漫游地图诗](skills/photo-to-citywalk-map-poem/README.md)
+
+把街角、雨后石路、拱廊或夜晚的小停留变成不指向真实地点的城市漫游页：上半保留现场气息，下半用材质小样、抽象铅笔线与留白重述感受。
+
+Turn a street-walk moment into a non-navigational city memory page: real atmosphere above, original material studies, abstract pencil lines, and blank space below.
+
+![Citywalk Map Poem example](skills/photo-to-citywalk-map-poem/examples/sample-03-rain-umbrella.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-citywalk-map-poem/README.md)** · **[在 PixPix 生成城市漫游地图诗 →](https://www.pixpix.com/?source=github62)**
 
 ## 安装到 Codex / Install in Codex
 
