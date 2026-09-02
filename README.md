@@ -3,7 +3,7 @@
 > 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
 > Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-**已发布 5 个原创 Skill / 5 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
+**已发布 6 个原创 Skill / 6 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
 > **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
 
@@ -64,6 +64,16 @@ Turn flowers, fabric, and shared celebration into an original botanical keepsake
 ![Bridesmaid Bloom Page example](skills/photo-to-bridesmaid-bloom-page/examples/sample-03-bouquet-ribbons.png)
 
 **[查看完整介绍与安装 →](skills/photo-to-bridesmaid-bloom-page/README.md)** · **[在 PixPix 生成伴娘花束页 →](https://www.pixpix.com/?source=github14)**
+
+### [Candlelight Dinner Card / 烛光晚餐卡](skills/photo-to-candlelight-dinner-card/README.md)
+
+把一张晚餐照片变成克制而亲密的小型艺术卡：上半保留烛光、餐盘与阴影，下半以无文字折卡、半透明纸、蜡感和细金线重组。
+
+Turn a dinner photo into a minimal intimate art card: real candlelight and table details above, a blank folded card, vellum, wax, and fine gold below.
+
+![Candlelight Dinner Card example](skills/photo-to-candlelight-dinner-card/examples/sample-02-cherry-card.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-candlelight-dinner-card/README.md)** · **[在 PixPix 生成烛光晚餐卡 →](https://www.pixpix.com/?source=github15)**
 
 ## 安装到 Codex / Install in Codex
 

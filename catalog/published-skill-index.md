@@ -71,6 +71,19 @@ Each Skill is a complete photo-reinterpretation method. Open a title or image fo
 
 ---
 
+## 06 — Candlelight Dinner Card / 烛光晚餐卡
+
+[![Candlelight Dinner Card](../skills/photo-to-candlelight-dinner-card/examples/sample-02-cherry-card.png)](../skills/photo-to-candlelight-dinner-card/README.md)
+
+**适合 / Best for：** 烛光晚餐、餐桌细节、酒杯、花朵与夜晚约会。  
+**视觉语言 / Visual language：** 酒红亚麻、奶油色卡纸、半透明描图纸、蜡滴与黄铜光线。  
+**输出感受 / Result：** 像一张没有文字的高级晚餐卡，而不是普通餐厅照片。
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-candlelight-dinner-card/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github15)**
+
+---
+
 ## 安装与使用 / Install and use
 
 ```text
