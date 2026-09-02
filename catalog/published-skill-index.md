@@ -123,6 +123,19 @@ Each Skill is a complete photo-reinterpretation method. Open a title or image fo
 
 ---
 
+## 10 — Cosmic Diary Collage / 宇宙日记拼贴
+
+[![Cosmic Diary Collage](../skills/photo-to-cosmic-diary-collage/examples/sample-02-disco-window.png)](../skills/photo-to-cosmic-diary-collage/README.md)
+
+**适合 / Best for：** 夜色、反光材质、跳舞、城市灯光与想留下的情绪瞬间。  
+**视觉语言 / Visual language：** 深蓝纸张、丁香紫、蜜桃色、银箔颗粒与抽象轨迹。  
+**输出感受 / Result：** 有宇宙想象力，但不做星盘、占星或任何事实性暗示。 
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-cosmic-diary-collage/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github63)**
+
+---
+
 ## 安装与使用 / Install and use
 
 ```text

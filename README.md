@@ -3,7 +3,7 @@
 > 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
 > Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-**已发布 9 个原创 Skill / 9 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
+**已发布 10 个原创 Skill / 10 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
 > **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
 
@@ -104,6 +104,16 @@ Turn a street-walk moment into a non-navigational city memory page: real atmosph
 ![Citywalk Map Poem example](skills/photo-to-citywalk-map-poem/examples/sample-03-rain-umbrella.png)
 
 **[查看完整介绍与安装 →](skills/photo-to-citywalk-map-poem/README.md)** · **[在 PixPix 生成城市漫游地图诗 →](https://www.pixpix.com/?source=github62)**
+
+### [Cosmic Diary Collage / 宇宙日记拼贴](skills/photo-to-cosmic-diary-collage/README.md)
+
+把夜色、反光材质与流动瞬间变成不做占星主张的宇宙日记：上半保留夜晚气氛，下半以深色纸、柔粉色星球形与银箔碎片组织成抽象想象。
+
+Turn night color and reflective movement into a non-astrological cosmic diary: real atmosphere above, original dark paper, pastel planet forms, and foil fragments below.
+
+![Cosmic Diary Collage example](skills/photo-to-cosmic-diary-collage/examples/sample-02-disco-window.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-cosmic-diary-collage/README.md)** · **[在 PixPix 生成宇宙日记拼贴 →](https://www.pixpix.com/?source=github63)**
 
 ## 安装到 Codex / Install in Codex
 
