@@ -3,7 +3,7 @@
 > 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
 > Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-**已发布 7 个原创 Skill / 7 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
+**已发布 8 个原创 Skill / 8 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
 > **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
 
@@ -84,6 +84,16 @@ Turn a breakfast photo into an editorial keepsake: real morning food above, indi
 ![Ceramic Breakfast Page example](skills/photo-to-ceramic-breakfast-page/examples/sample-03-strawberry-tart.png)
 
 **[查看完整介绍与安装 →](skills/photo-to-ceramic-breakfast-page/README.md)** · **[在 PixPix 生成陶瓷早餐页 →](https://www.pixpix.com/?source=github60)**
+
+### [Charm Bracelet Board / 串珠挂件板](skills/photo-to-charm-bracelet-board/README.md)
+
+把包包、衣角、发夹或一组小饰品变成可收藏的串珠挂件板：上半保留真实穿搭细节，下半以原创树脂、金属、珍珠和细绳重新组织。
+
+Turn a small accessory moment into a collectible charm board: a real outfit detail above, original resin, metal, pearl, and thread charms below.
+
+![Charm Bracelet Board example](skills/photo-to-charm-bracelet-board/examples/sample-02-pink-clip.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-charm-bracelet-board/README.md)** · **[在 PixPix 生成串珠挂件板 →](https://www.pixpix.com/?source=github61)**
 
 ## 安装到 Codex / Install in Codex
 

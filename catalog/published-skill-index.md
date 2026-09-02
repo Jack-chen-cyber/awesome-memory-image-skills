@@ -97,6 +97,19 @@ Each Skill is a complete photo-reinterpretation method. Open a title or image fo
 
 ---
 
+## 08 — Charm Bracelet Board / 串珠挂件板
+
+[![Charm Bracelet Board](../skills/photo-to-charm-bracelet-board/examples/sample-02-pink-clip.png)](../skills/photo-to-charm-bracelet-board/README.md)
+
+**适合 / Best for：** 包包、衣角、发夹、手链、日常小物与穿搭色彩。  
+**视觉语言 / Visual language：** 果冻粉、钴蓝、抛光银、珍珠与空白笔记本纸。  
+**输出感受 / Result：** 轻松、有收藏欲，却不依赖任何品牌符号或现成挂件设计。 
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-charm-bracelet-board/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github61)**
+
+---
+
 ## 安装与使用 / Install and use
 
 ```text
