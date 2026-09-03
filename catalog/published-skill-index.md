@@ -151,6 +151,19 @@ Each Skill is a complete photo-reinterpretation method. Open a title or image fo
 
 ## 安装与使用 / Install and use
 
+## 12 — Flower Market Ephemera / 花市藏品卡
+
+[![Flower Market Ephemera](../skills/photo-to-flower-market-ephemera/examples/sample-02-peony-cafe.png)](../skills/photo-to-flower-market-ephemera/README.md)
+
+**适合 / Best for：** 花市、花束、包装纸与季节花材。  
+**视觉语言 / Visual language：** 棉纸、半透明纸、植物研究、柔和色样和细线。  
+**输出感受 / Result：** 一页现代花艺档案，不是婚礼模板或品牌包装。 
+
+**[查看三张案例、安装方式与完整说明 →](../skills/photo-to-flower-market-ephemera/README.md)**  
+**[在 PixPix 生成这个风格 →](https://www.pixpix.com/?source=github65)**
+
+---
+
 ```text
 git clone https://github.com/Jack-chen-cyber/awesome-memory-image-skills.git
 复制一个完整的 skills/<skill-name> 目录到 %USERPROFILE%\.codex\skills\

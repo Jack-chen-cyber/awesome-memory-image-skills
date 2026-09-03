@@ -1,0 +1,5 @@
+interface:
+  display_name: "Flower Market Ephemera"
+  short_description: "Turn a photo into a botanical paper keepsake"
+  brand_color: "#D8B7B7"
+  default_prompt: "Use $photo-to-flower-market-ephemera to turn this photo into a calm 4:5 flower-market ephemera page."

@@ -3,7 +3,7 @@
 > 把一张照片做成值得收藏的上下拼接视觉日记：上半保留真实瞬间，下半以原创插画、纸感拼贴或艺术研究重新书写记忆。  
 > Turn one photograph into a collectible upper/lower visual diary: a real moment above, an original artistic interpretation below.
 
-**已发布 11 个原创 Skill / 11 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
+**已发布 12 个原创 Skill / 12 original Skills published** · 每个页面均含 3 张无文字样图、双语说明、Codex 安装方式与独立 PixPix 工作流。
 
 > **[在 PixPix 开始创作 →](https://www.pixpix.com/?source=github1)**
 
@@ -126,6 +126,16 @@ Turn an outfit moment into a text-free fashion notebook: real look above, origin
 **[查看完整介绍与安装 →](skills/photo-to-fashion-doodle-diary/README.md)** · **[在 PixPix 生成时尚涂鸦日记 →](https://www.pixpix.com/?source=github64)**
 
 ## 安装到 Codex / Install in Codex
+
+### [Flower Market Ephemera / 花市藏品卡](skills/photo-to-flower-market-ephemera/README.md)
+
+把花束、包装纸与光线留成原创植物纸上档案：真实花市在上，棉纸、植物研究和空白半透明纸在下。
+
+Turn a flower moment into a floral paper archive: real flowers above, original botanical studies and vellum below.
+
+![Flower Market Ephemera example](skills/photo-to-flower-market-ephemera/examples/sample-02-peony-cafe.png)
+
+**[查看完整介绍与安装 →](skills/photo-to-flower-market-ephemera/README.md)** · **[在 PixPix 生成花市藏品卡 →](https://www.pixpix.com/?source=github65)**
 
 1. 克隆或下载本仓库：`git clone https://github.com/Jack-chen-cyber/awesome-memory-image-skills.git`。
 2. 选择一个完整目录，例如 `skills/photo-to-fruit-still-life-note`，复制到 `%USERPROFILE%\.codex\skills\`。
